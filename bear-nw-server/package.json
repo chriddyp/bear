@@ -1,0 +1,9 @@
+{
+  "name": "bear-nw-server",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "frame": true,
+    "show": true
+  }
+}
